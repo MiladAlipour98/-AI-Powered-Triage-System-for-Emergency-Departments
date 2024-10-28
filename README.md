@@ -1,0 +1,2 @@
+# -AI-Powered-Triage-System-for-Emergency-Departments
+The goal of this project is to create an AI-assisted triage system that helps emergency department nurses assess patient conditions and prioritize care. Using machine learning and NLP, the system analyzes patient symptoms, medical history, and vital signs to predict triage levels, allowing for a more efficient and accurate prioritization process.
